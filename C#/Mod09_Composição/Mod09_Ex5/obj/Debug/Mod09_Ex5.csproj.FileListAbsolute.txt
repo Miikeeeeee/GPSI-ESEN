@@ -1,8 +1,0 @@
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\bin\Debug\Mod09_Ex5.exe.config
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\bin\Debug\Mod09_Ex5.exe
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\bin\Debug\Mod09_Ex5.pdb
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\obj\Debug\Mod09_Ex5.csproj.AssemblyReference.cache
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\obj\Debug\Mod09_Ex5.csproj.SuggestedBindingRedirects.cache
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\obj\Debug\Mod09_Ex5.csproj.CoreCompileInputs.cache
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\obj\Debug\Mod09_Ex5.exe
-C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex5\Mod09_Ex5\obj\Debug\Mod09_Ex5.pdb
