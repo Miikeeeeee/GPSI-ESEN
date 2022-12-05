@@ -1,0 +1,8 @@
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\bin\Debug\Mod09_FichaEx5.exe.config
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\bin\Debug\Mod09_FichaEx5.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\bin\Debug\Mod09_FichaEx5.pdb
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\obj\Debug\Mod09_FichaEx5.csproj.AssemblyReference.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\obj\Debug\Mod09_FichaEx5.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\obj\Debug\Mod09_FichaEx5.csproj.CoreCompileInputs.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\obj\Debug\Mod09_FichaEx5.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx5\Mod09_FichaEx5\obj\Debug\Mod09_FichaEx5.pdb

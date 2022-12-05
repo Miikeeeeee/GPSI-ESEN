@@ -1,0 +1,16 @@
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.exe.config
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.pdb
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.AssemblyReference.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.CoreCompileInputs.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.pdb
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.exe.config
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\bin\Debug\Mod09_FichaEx1.pdb
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.AssemblyReference.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.csproj.CoreCompileInputs.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_FichaEx1\Mod09_FichaEx1\obj\Debug\Mod09_FichaEx1.pdb
