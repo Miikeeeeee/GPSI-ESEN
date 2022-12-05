@@ -1,0 +1,8 @@
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\bin\Debug\Mod09_Herança.exe.config
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\bin\Debug\Mod09_Herança.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\bin\Debug\Mod09_Herança.pdb
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\obj\Debug\Mod09_Herança.csproj.AssemblyReference.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\obj\Debug\Mod09_Herança.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\obj\Debug\Mod09_Herança.csproj.CoreCompileInputs.cache
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\obj\Debug\Mod09_Herança.exe
+C:\Users\miker\OneDrive - Escola Secundária de Emídio Navarro de Viseu\2022-2023\11ºH\PSI\Mod09_Herança\Mod09_Herança\obj\Debug\Mod09_Herança.pdb
