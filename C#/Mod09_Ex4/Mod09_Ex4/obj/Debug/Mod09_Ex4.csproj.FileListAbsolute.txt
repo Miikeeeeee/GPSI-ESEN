@@ -1,0 +1,8 @@
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\bin\Debug\Mod09_Ex4.exe.config
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\bin\Debug\Mod09_Ex4.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\bin\Debug\Mod09_Ex4.pdb
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\obj\Debug\Mod09_Ex4.csproj.AssemblyReference.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\obj\Debug\Mod09_Ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\obj\Debug\Mod09_Ex4.csproj.CoreCompileInputs.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\obj\Debug\Mod09_Ex4.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex4\Mod09_Ex4\obj\Debug\Mod09_Ex4.pdb

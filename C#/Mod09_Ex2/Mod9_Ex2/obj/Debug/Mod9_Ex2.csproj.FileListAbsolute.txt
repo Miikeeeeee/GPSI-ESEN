@@ -1,0 +1,16 @@
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.exe.config
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.pdb
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.AssemblyReference.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod9_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.pdb
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.exe.config
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\bin\Debug\Mod9_Ex2.pdb
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.AssemblyReference.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.exe
+C:\Users\miker\Desktop\11ºH\PSI\Mod09_Ex2\Mod9_Ex2\obj\Debug\Mod9_Ex2.pdb
